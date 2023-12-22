@@ -7,7 +7,7 @@
 {'object': 1,'name':'TDS tiktok (auto)','exec':'url'},
 {'object': 2,'name':'TDS instagram (selenium)','exec':'url'}]
 },
-'title':'Tool auto TTC','data':[
+{'title':'Tool auto TTC','data':[
 {'object': 1,'name':'TTC tiktok (auto)','exec':'url'},
 {'object': 2,'name':'TTC instagram (selenium)','exec':'url'}]
 }]
