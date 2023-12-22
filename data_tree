@@ -1,15 +1,16 @@
 {'base':'Thuoc ban quyen by Lehung','data':[
 {'title':'Tool auto golike','data':[
-{'object':'1','name':'golike tiktok (auto)','exec':'url'},
-{'object':'2','name':'golike instagram (selenium)','exec':'url'}]
+{'object':'1','name':'golike tiktok (auto)'},
+{'object':'2','name':'golike instagram (selenium)'}]
 },
 {'title':'Tool auto TDS','data':[
-{'object':'1','name':'TDS tiktok (auto)','exec':'url'},
-{'object':'2','name':'TDS instagram (selenium)','exec':'url'}]
+{'object':'1','name':'TDS tiktok (auto)'},
+{'object':'2','name':'TDS instagram (selenium)'}]
 },
 {'title':'Tool auto TTC','data':[
-{'object':'1','name':'TTC tiktok (auto)','exec':'url'},
-{'object':'2','name':'TTC instagram (selenium)','exec':'url'}]
+{'object':'1','name':'TTC tiktok (auto)'},
+{'object':'2','name':'TTC instagram (selenium)'}]
 }]
+,'exec':{1:'',2:'',3:'',4:''}
 }
   
