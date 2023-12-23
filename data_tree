@@ -10,6 +10,18 @@
 {'title':'Tool auto TTC','data':[
 {'object':'1','name':'TTC tiktok (auto)'},
 {'object':'2','name':'TTC instagram (selenium)'}]
-}],'exec':{'1':'','2':'https://raw.githubusercontent.com/netrotion/main_tool/main/golike_instagram_auto','3':'','4':''}
+}
+{'title':'Dich vu khac','data':[
+{'object':'1','name':'TTC tiktok (auto)'},
+{'object':'2','name':'TTC instagram (selenium)'}]
+}
+{'title':'Tool encode','data':[
+{'object':'1','name':'TTC tiktok (auto)'},
+{'object':'2','name':'TTC instagram (selenium)'}]
+}
+{'title':'Tien ich','data':[
+{'object':'1','name':'TTC tiktok (auto)'},
+{'object':'2','name':'TTC instagram (selenium)'}]
+},],'exec':{'1':'','2':'https://raw.githubusercontent.com/netrotion/main_tool/main/golike_instagram_auto','3':'','4':''}
 }
   
