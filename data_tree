@@ -4,24 +4,32 @@
 {'object':'2','name':'golike instagram (selenium)'}]
 },
 {'title':'Tool auto TDS','data':[
-{'object':'1','name':'TDS tiktok (auto)'},
-{'object':'2','name':'TDS instagram (selenium)'}]
+{'object':'1','name':'TDS tiktok (auto click)'},
+{'object':'2','name':'TDS tiktok (selenium)'},
+{'object':'3','name':'TDS tiktok (selenium)'},
+{'object':'4','name':'TDS instagram (selenium)'},
+{'object':'5','name':'TDS pro5 token (selenium)'},
+{'object':'6','name':'TDS pro5 cookies (selenium)'}]
 },
 {'title':'Tool auto TTC','data':[
-{'object':'1','name':'TTC tiktok (auto)'},
-{'object':'2','name':'TTC instagram (selenium)'}]
+{'object':'1','name':'TTC tiktok (auto click)'},
+{'object':'2','name':'TTC tiktok (selenium)'},
+{'object':'3','name':'TTC instagram (selenium)'},
+{'object':'4','name':'TTC instagram (auto)'}
+{'object':'5','name':'TTC pro5 token (selenium)'},
+{'object':'6','name':'TTC pro5 cookies (selenium)'}]
 },
 {'title':'Dich vu khac','data':[
-{'object':'1','name':'TTC tiktok (auto)'},
-{'object':'2','name':'TTC instagram (selenium)'}]
+{'object':'1','name':'Reg acc garena'},
+{'object':'2','name':'Get token pro5'}
+{'object':'3','name':'Auto bot messenger cookies (Bot wordconnect, etc...)'},
+{'object':'4','name':'Scan member group fb'},
+{'object':'5','name':'Dao proxy'},
+{'object':'6','name':'DDOS ip'},]
 },
 {'title':'Tool encode','data':[
-{'object':'1','name':'TTC tiktok (auto)'},
-{'object':'2','name':'TTC instagram (selenium)'}]
+{'object':'1','name':'comming soon'}]
 },
-{'title':'Tien ich','data':[
-{'object':'1','name':'TTC tiktok (auto)'},
-{'object':'2','name':'TTC instagram (selenium)'}]
-}],'exec':{'1':'','2':'https://raw.githubusercontent.com/netrotion/main_tool/main/golike_instagram_auto','3':'','4':''}
+],'exec':{'1':'','2':'https://raw.githubusercontent.com/netrotion/main_tool/main/golike_instagram_auto','3':'','4':'','5':'','6':'','7':'','8':'','9':''}
 }
   
