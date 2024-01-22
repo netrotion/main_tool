@@ -15,7 +15,7 @@
 {'object':'1','name':'TTC tiktok (auto click)'},
 {'object':'2','name':'TTC tiktok (selenium)'},
 {'object':'3','name':'TTC instagram (selenium)'},
-{'object':'4','name':'TTC instagram (auto)'}
+{'object':'4','name':'TTC instagram (auto)'},
 {'object':'5','name':'TTC pro5 token (selenium)'},
 {'object':'6','name':'TTC pro5 cookies (selenium)'}]
 },
