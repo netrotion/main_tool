@@ -25,11 +25,10 @@
 {'object':'3','name':'Auto bot messenger cookies (Bot wordconnect, etc...)'},
 {'object':'4','name':'Scan member group fb'},
 {'object':'5','name':'Dao proxy'},
-{'object':'6','name':'DDOS ip'},]
+{'object':'6','name':'DDOS ip'}]
 },
 {'title':'Tool encode','data':[
 {'object':'1','name':'comming soon'}]
-},
-],'exec':{'1':'','2':'https://raw.githubusercontent.com/netrotion/main_tool/main/golike_instagram_auto','3':'','4':'','5':'','6':'','7':'','8':'','9':''}
 }
-  
+],'exec':{'1':'','2':'https://raw.githubusercontent.com/netrotion/main_tool/main/golike_instagram_auto'}
+}
