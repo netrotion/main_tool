@@ -4,26 +4,26 @@
 {'object':'2','name':'golike instagram (selenium)'}]
 },
 {'title':'Tool auto TDS','data':[
-{'object':'1','name':'TDS tiktok (auto click)'},
-{'object':'2','name':'TDS tiktok (selenium)'},
+{'object':'1','name':'TDS tiktok (bao tri)'},
+{'object':'2','name':'TDS tiktok cookies (bao tri)'},
 {'object':'3','name':'TDS instagram full job'},
-{'object':'4','name':'TDS pro5 token'},
-{'object':'5','name':'TDS pro5 cookies (selenium)'}]
+{'object':'4','name':'TDS pro5 token (bao tri)'},
+{'object':'5','name':'TDS pro5 cookies (bao tri)'}]
 },
 {'title':'Tool auto TTC','data':[
-{'object':'1','name':'TTC tiktok (auto click)'},
-{'object':'2','name':'TTC tiktok (selenium)'},
-{'object':'3','name':'TTC instagram (requests)'},
-{'object':'4','name':'TTC pro5 token '},
-{'object':'5','name':'TTC pro5 cookies (selenium)'}]
+{'object':'1','name':'TTC tiktok (bao tri)'},
+{'object':'2','name':'TTC tiktok cookie (bao tri)'},
+{'object':'3','name':'TTC vipig full job (bao tri)'},
+{'object':'4','name':'TTC pro5 token (bao tri)'},
+{'object':'5','name':'TTC pro5 cookies (bao tri)'}]
 },
 {'title':'Dich vu khac','data':[
-{'object':'1','name':'Reg acc garena'},
+{'object':'1','name':'Reg acc garena (bao tri)'},
 {'object':'2','name':'Get full token bang cookie'},
-{'object':'3','name':'Auto bot messenger cookies (Bot wordconnect, etc...)'},
-{'object':'4','name':'Scan member group fb'},
-{'object':'5','name':'Dao proxy'},
-{'object':'6','name':'DDOS ip'}]
+{'object':'3','name':'Auto bot messenger cookies (Bot wordconnect, etc...) (bao tri)'},
+{'object':'4','name':'Scan member group fb (bao tri)'},
+{'object':'5','name':'Dao proxy (bao tri)'},
+{'object':'6','name':'DDOS ip (bao tri)'}]
 },
 {'title':'Tool encode','data':[
 {'object':'1','name':'comming soon'}]
