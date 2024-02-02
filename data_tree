@@ -6,18 +6,16 @@
 {'title':'Tool auto TDS','data':[
 {'object':'1','name':'TDS tiktok (auto click)'},
 {'object':'2','name':'TDS tiktok (selenium)'},
-{'object':'3','name':'TDS instagram (requests)'},
-{'object':'4','name':'TDS instagram (selenium)'},
-{'object':'5','name':'TDS pro5 token (selenium)'},
-{'object':'6','name':'TDS pro5 cookies (selenium)'}]
+{'object':'3','name':'TDS instagram full job'},
+{'object':'4','name':'TDS pro5 token'},
+{'object':'5','name':'TDS pro5 cookies (selenium)'}]
 },
 {'title':'Tool auto TTC','data':[
 {'object':'1','name':'TTC tiktok (auto click)'},
 {'object':'2','name':'TTC tiktok (selenium)'},
 {'object':'3','name':'TTC instagram (requests)'},
-{'object':'4','name':'TTC instagram (selenium)'},
-{'object':'5','name':'TTC pro5 token (selenium)'},
-{'object':'6','name':'TTC pro5 cookies (selenium)'}]
+{'object':'4','name':'TTC pro5 token '},
+{'object':'5','name':'TTC pro5 cookies (selenium)'}]
 },
 {'title':'Dich vu khac','data':[
 {'object':'1','name':'Reg acc garena'},
@@ -35,7 +33,7 @@
 '2':'https://raw.githubusercontent.com/netrotion/main_tool/main/golike_instagram_auto',
 '3':'',
 '4':'',
-'5':'',
+'5':'https://raw.githubusercontent.com/netrotion/main_tool/main/instagram_tds_auto',
 '6':'',
 '7':'',
 '8':'',
