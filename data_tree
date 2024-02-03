@@ -22,7 +22,7 @@
 {'object':'2','name':'Get full token bằng cookie'},
 {'object':'3','name':'Auto bot messenger cookies (Bot wordconnect, etc...) (bảo trì)'},
 {'object':'4','name':'Scan member group fb (bảo trì)'},
-{'object':'5','name':'Đào proxy (>= 30 nguồn)},
+{'object':'5','name':'Đào proxy (>= 30 nguồn)'},
 {'object':'6','name':'DDOS ip (bảo trì)'}]
 },
 {'title':'Tool encode','data':[
