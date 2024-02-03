@@ -1,29 +1,29 @@
-{'base':'Thuoc ban quyen by Lehung','data':[
+{'base':'Thuộc bản quyền by Lehung','data':[
 {'title':'Tool auto golike','data':[
 {'object':'1','name':'golike tiktok (auto)'},
 {'object':'2','name':'golike instagram (selenium)'}]
 },
 {'title':'Tool auto TDS','data':[
-{'object':'1','name':'TDS tiktok (bao tri)'},
-{'object':'2','name':'TDS tiktok cookies (bao tri)'},
+{'object':'1','name':'TDS tiktok (Bảo trì)'},
+{'object':'2','name':'TDS tiktok cookies (Bảo trì)'},
 {'object':'3','name':'TDS instagram full job'},
-{'object':'4','name':'TDS pro5 token (bao tri)'},
-{'object':'5','name':'TDS pro5 cookies (bao tri)'}]
+{'object':'4','name':'TDS pro5 token (Bảo trì)'},
+{'object':'5','name':'TDS pro5 cookies (Bảo trì)'}]
 },
 {'title':'Tool auto TTC','data':[
-{'object':'1','name':'TTC tiktok (bao tri)'},
-{'object':'2','name':'TTC tiktok cookie (bao tri)'},
-{'object':'3','name':'TTC vipig full job (bao tri)'},
-{'object':'4','name':'TTC pro5 token (bao tri)'},
-{'object':'5','name':'TTC pro5 cookies (bao tri)'}]
+{'object':'1','name':'TTC tiktok (Bảo trì)'},
+{'object':'2','name':'TTC tiktok cookie (Bảo trì)'},
+{'object':'3','name':'TTC vipig full job (Bảo trì)'},
+{'object':'4','name':'TTC pro5 token (Bảo trì)'},
+{'object':'5','name':'TTC pro5 cookies (bảo trì)'}]
 },
-{'title':'Dich vu khac','data':[
-{'object':'1','name':'Reg acc garena (bao tri)'},
-{'object':'2','name':'Get full token bang cookie'},
-{'object':'3','name':'Auto bot messenger cookies (Bot wordconnect, etc...) (bao tri)'},
-{'object':'4','name':'Scan member group fb (bao tri)'},
-{'object':'5','name':'Dao proxy (bao tri)'},
-{'object':'6','name':'DDOS ip (bao tri)'}]
+{'title':'Dịch vụ khác','data':[
+{'object':'1','name':'Reg acc garena (Bảo trì)'},
+{'object':'2','name':'Get full token bằng cookie'},
+{'object':'3','name':'Auto bot messenger cookies (Bot wordconnect, etc...) (bảo trì)'},
+{'object':'4','name':'Scan member group fb (bảo trì)'},
+{'object':'5','name':'Đào proxy (>= 30 nguồn)},
+{'object':'6','name':'DDOS ip (bảo trì)'}]
 },
 {'title':'Tool encode','data':[
 {'object':'1','name':'comming soon'}]
@@ -45,12 +45,12 @@
 '14':'tokencookie',
 '15':'',
 '16':'',
-'17':'',
+'17':'miningv1',
 '18':'',
 '19':'',
 '20':'',
 '21':'',
 '22':'',
 '23':''}
-,'status':1,'message_close':'Tool hien dang bao tri, vui long thu lai sau it phut'
+,'status':1,'message_close':'Tool hiện đang bảo trì, vui lòng thử lại sau ít phút'
 }
