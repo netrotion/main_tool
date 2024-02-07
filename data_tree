@@ -4,7 +4,7 @@
 {'object':'2','name':'golike instagram (selenium)'}]
 },
 {'title':'Tool auto TDS','data':[
-{'object':'1','name':'TDS tiktok (Bảo trì)'},
+{'object':'1','name':'TDS tiktok'},
 {'object':'2','name':'TDS tiktok cookies (Bảo trì)'},
 {'object':'3','name':'TDS instagram full job'},
 {'object':'4','name':'TDS pro5 token (Bảo trì)'},
@@ -31,7 +31,7 @@
 ],'exec':{
 '1':'',
 '2':'',
-'3':'',
+'3':'tiktoktds',
 '4':'',
 '5':'instds',
 '6':'',
