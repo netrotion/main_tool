@@ -11,22 +11,22 @@
 {'object':'5','name':'TDS pro5 cookies (Bảo trì)'}]
 },
 {'title':'Tool auto TTC','data':[
-{'object':'1','name':'TTC tiktok (Bảo trì)'},
-{'object':'2','name':'TTC tiktok cookie (Bảo trì)'},
-{'object':'3','name':'TTC vipig full job (Bảo trì)'},
-{'object':'4','name':'TTC pro5 token (Bảo trì)'},
-{'object':'5','name':'TTC pro5 cookies (bảo trì)'}]
+{'object':'6','name':'TTC tiktok (Bảo trì)'},
+{'object':'7','name':'TTC tiktok cookie (Bảo trì)'},
+{'object':'8','name':'TTC vipig full job (Bảo trì)'},
+{'object':'9','name':'TTC pro5 token (Bảo trì)'},
+{'object':'10','name':'TTC pro5 cookies (bảo trì)'}]
 },
 {'title':'Dịch vụ khác','data':[
-{'object':'1','name':'Reg acc garena (Bảo trì)'},
-{'object':'2','name':'Get full token bằng cookie'},
-{'object':'3','name':'Auto bot messenger cookies (Bot wordconnect, etc...) (bảo trì)'},
-{'object':'4','name':'Scan member group fb (bảo trì)'},
-{'object':'5','name':'Đào proxy (>= 30 nguồn)'},
-{'object':'6','name':'DDOS ip (bảo trì)'}]
+{'object':'11','name':'Reg acc garena (Bảo trì)'},
+{'object':'12','name':'Get full token bằng cookie'},
+{'object':'13','name':'Auto bot messenger cookies (Bot wordconnect, etc...) (bảo trì)'},
+{'object':'14','name':'Scan member group fb (bảo trì)'},
+{'object':'15','name':'Đào proxy (>= 30 nguồn)'},
+{'object':'16','name':'DDOS ip (bảo trì)'}]
 },
 {'title':'Tool encode','data':[
-{'object':'1','name':'Encode algorithm remake anubis(tạm ổn)'}]
+{'object':'17','name':'Encode algorithm remake anubis(tạm ổn)'}]
 }
 ],'exec':{
 '1':'',
