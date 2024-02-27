@@ -26,7 +26,8 @@
 {'object':'16','name':'DDOS ip (bảo trì)'}]
 },
 {'title':'Tool encode','data':[
-{'object':'17','name':'Encode algorithm remake anubis(tạm ổn)'}]
+{'object':'17','name':'Encode algorithm remake anubis(tạm ổn)'},
+{'object':'18','name':'Encode bản quyền HNGL'},]
 }
 ],'exec':{
 '1':'goliketikselen',
@@ -42,11 +43,11 @@
 '11':'',
 '12':'',
 '13':'',
-'14':'tokencookie',
+'14':'',
 '15':'',
 '16':'',
 '17':'miningv1',
-'18':'',
+'18':'hnglencode',
 '19':'anubisencode',
 '20':'',
 '21':'',
