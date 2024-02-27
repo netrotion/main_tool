@@ -27,7 +27,7 @@
 },
 {'title':'Tool encode','data':[
 {'object':'17','name':'Encode algorithm remake anubis(tạm ổn)'},
-{'object':'18','name':'Encode bản quyền HNGL'},]
+{'object':'18','name':'Encode bản quyền HNGL'}]
 }
 ],'exec':{
 '1':'goliketikselen',
