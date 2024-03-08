@@ -1,2 +1,2 @@
 # main_tool
-Dung ao tuong bug tool t nua xin day :(
+Ước được bug tool :(
