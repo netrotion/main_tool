@@ -39,7 +39,7 @@
 '6':'',
 '7':'',
 '8':'',
-'9':'',
+'9':'mksv',
 '10':'',
 '11':'',
 '12':'',
@@ -49,9 +49,9 @@
 '16':'',
 '17':'miningprx',
 '18':'',
-'19':'anubisencode',
-'20':'hnglencode',
-'21':'',
+'19':'',
+'20':'anubisencode',
+'21':'hnglencode',
 '22':'',
 '23':''}
 ,'status':1,'message_close':'Tool hiện đang bảo trì, vui lòng thử lại sau ít phút'
