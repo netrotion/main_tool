@@ -23,11 +23,12 @@
 {'object':'13','name':'Auto bot messenger cookies (Bot wordconnect, etc...) (bảo trì)'},
 {'object':'14','name':'Scan member group fb (bảo trì)'},
 {'object':'15','name':'Đào proxy (>= 30 nguồn)'},
-{'object':'16','name':'DDOS ip (bảo trì)'}]
+{'object':'16','name':'DDOS ip (bảo trì)'},
+{'object':'17','name':'Quản lí text server (new)'}]
 },
 {'title':'Tool encode','data':[
-{'object':'17','name':'Encode algorithm remake anubis(tạm ổn)'},
-{'object':'18','name':'Encode bản quyền HNGL'}]
+{'object':'18','name':'Encode algorithm remake anubis(tạm ổn)'},
+{'object':'19','name':'Encode bản quyền HNGL'}]
 }
 ],'exec':{
 '1':'goliketikselen',
