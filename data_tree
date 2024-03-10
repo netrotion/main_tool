@@ -25,7 +25,7 @@
 {'object':'17','name':'Đào proxy (>= 30 nguồn)','status':true},
 {'object':'18','name':'DDOS ip','status':false},
 {'object':'19','name':'Quản lí text server (new)','status':true},
-{'object':'20','name':'Download PDF chế độ đọc googledriver','status':true},]
+{'object':'20','name':'Download PDF chế độ đọc googledriver','status':true}]
 },
 {'title':'Tool encode','data':[
 {'object':'21','name':'Encode algorithm remake anubis(tạm ổn)','status':true},
