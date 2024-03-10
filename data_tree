@@ -1,34 +1,34 @@
 {'base':'Thuộc bản quyền by Lehung','data':[
 {'title':'Tool auto golike','data':[
-{'object':'1','name':'golike tiktok (auto)'},
-{'object':'2','name':'golike instagram (selenium)'}]
+{'object':'1','name':'golike tiktok (auto)','status':true},
+{'object':'2','name':'golike instagram (selenium)','status':false}]
 },
 {'title':'Tool auto TDS','data':[
-{'object':'1','name':'TDS tiktok'},
-{'object':'2','name':"TDS tiktok cookies (\\033[91m•\\033[1;37m)"},
-{'object':'3','name':'TDS instagram full job'},
-{'object':'4','name':'TDS pro5 token (Bảo trì)'},
-{'object':'5','name':'TDS pro5 cookies (Bảo trì)'}]
+{'object':'1','name':'TDS tiktok','status':true},
+{'object':'2','name':'TDS tiktok cookies','status':false},
+{'object':'3','name':'TDS instagram full job','status':true},
+{'object':'4','name':'TDS pro5 token','status':false},
+{'object':'5','name':'TDS pro5 cookies','status':false}]
 },
 {'title':'Tool auto TTC','data':[
-{'object':'6','name':'TTC tiktok (Bảo trì)'},
-{'object':'7','name':'TTC tiktok cookie (Bảo trì)'},
-{'object':'8','name':'TTC vipig full job (Bảo trì)'},
-{'object':'9','name':'TTC pro5 token (Bảo trì)'},
-{'object':'10','name':'TTC pro5 cookies (bảo trì)'}]
+{'object':'6','name':'TTC tiktok','status':false},
+{'object':'7','name':'TTC tiktok cookie','status':false},
+{'object':'8','name':'TTC vipig full job','status':false},
+{'object':'9','name':'TTC pro5 token','status':false},
+{'object':'10','name':'TTC pro5 cookies','status':false}]
 },
 {'title':'Dịch vụ khác','data':[
-{'object':'11','name':'Reg acc garena (Bảo trì)'},
-{'object':'12','name':'Get full token bằng cookie'},
-{'object':'13','name':'Auto bot messenger cookies (Bot wordconnect, etc...) (bảo trì)'},
-{'object':'14','name':'Scan member group fb (bảo trì)'},
-{'object':'15','name':'Đào proxy (>= 30 nguồn)'},
-{'object':'16','name':'DDOS ip (bảo trì)'},
-{'object':'17','name':'Quản lí text server (new)'}]
+{'object':'11','name':'Reg acc garena','status':false},
+{'object':'12','name':'Get full token bằng cookie','status':false},
+{'object':'13','name':'Auto bot messenger cookies (Bot wordconnect, etc...)','status':false},
+{'object':'14','name':'Scan member group fb','status':false},
+{'object':'15','name':'Đào proxy (>= 30 nguồn)','status':true},
+{'object':'16','name':'DDOS ip','status':false},
+{'object':'17','name':'Quản lí text server (new)','status':true}]
 },
 {'title':'Tool encode','data':[
-{'object':'18','name':'Encode algorithm remake anubis(tạm ổn)'},
-{'object':'19','name':'Encode bản quyền HNGL'}]
+{'object':'18','name':'Encode algorithm remake anubis(tạm ổn)','status':true},
+{'object':'19','name':'Encode bản quyền HNGL','status':true}]
 }
 ],'exec':{
 '1':'goliketikselen',
