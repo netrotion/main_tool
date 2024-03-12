@@ -25,11 +25,12 @@
 {'object':'17','name':'Đào proxy (>= 30 nguồn)','status':true},
 {'object':'18','name':'DDOS ip','status':false},
 {'object':'19','name':'Quản lí text server (new)','status':true},
-{'object':'20','name':'Download PDF chế độ đọc googledriver','status':true}]
+{'object':'20','name':'Download PDF chế độ đọc googledriver','status':true},
+{'object':'21','name':'Đào gmail v1','status':true}]
 },
 {'title':'Tool encode','data':[
-{'object':'21','name':'Encode algorithm remake anubis(tạm ổn)','status':true},
-{'object':'22','name':'Encode bản quyền HNGL','status':true}]
+{'object':'22','name':'Encode algorithm remake anubis(tạm ổn)','status':true},
+{'object':'23','name':'Encode bản quyền HNGL','status':true}]
 }
 ],'exec':{
 '1':'goliketikselen',
@@ -52,8 +53,8 @@
 '18':'',
 '19':'mksv',
 '20':'pdfdown',
-'21':'anubisencode',
-'22':'hnglencode',
-'23':''}
+'21':'gmailmn',
+'22':'anubisencode',
+'23':'hnglencode'}
 ,'status':1,'message_close':'Tool hiện đang bảo trì, vui lòng thử lại sau ít phút'
 }
