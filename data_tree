@@ -5,7 +5,7 @@
 },
 {'title':'Tool auto TDS','data':[
 {'object':'3','name':'TDS tiktok','status':true},
-{'object':'4','name':'TDS tiktok cookies','status':false},
+{'object':'4','name':'TDS tiktok cookies đa luồng(vip)','status':true},
 {'object':'5','name':'TDS instagram full job','status':true},
 {'object':'6','name':'TDS pro5 token','status':false},
 {'object':'7','name':'TDS pro5 cookies','status':false}]
@@ -38,7 +38,7 @@
 '1':'goliketikselen',
 '2':'',
 '3':'tiktoktds',
-'4':'',
+'4':'tdsttck',
 '5':'instds',
 '6':'',
 '7':'',
